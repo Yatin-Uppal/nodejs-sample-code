@@ -1,27 +1,32 @@
 # NodeJS Backend
 
-## Prerequisites
+A TypeScript-based Node.js backend API built with **Express**, documented using **TSOA** and **Swagger**, and modularized with path aliases for clean project structure.
 
-- Node.js (v18 or higher)
-- npm or yarn package manager
-## Project Tools & Libraries
+---
 
-- **Express.js** - Fast, unopinionated web framework for Node.js
-- **TypeScript** - JavaScript with syntax for types
+## 📦 Project Overview
 
-## Setup
+This backend project includes:
 
-1. Clone the repository
-2. Install dependencies:
-   ```bash
-   npm install
-   ```
-3. Create a `.env` file in the root directory and add all the required environment variables using .env.example file:0
+- **TypeScript** for static typing
+- **Express** for building RESTful APIs
+- **TSOA** for automatic Swagger documentation generation
+- **Module aliasing** for cleaner import paths
+- **Validation** using Joi
+- **Environment configuration** using dotenv
 
-## Available Scripts
+---
 
-- `npm run dev` - Start development server with hot-reload
-- `npm run build` - Build the application for production
-- `npm start` - Start the production server
+## 🚀 Getting Started
 
+### Prerequisites
 
+- Node.js v16 or later
+- npm or yarn
+
+### Installation
+
+```bash
+git clone https://github.com/yourusername/nodejs-backend.git
+cd nodejs-backend
+npm install
