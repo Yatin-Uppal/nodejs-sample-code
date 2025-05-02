@@ -27,6 +27,6 @@ This backend project includes:
 ### Installation
 
 ```bash
-git clone https://github.com/yourusername/nodejs-backend.git
-cd nodejs-backend
+git clone https://github.com/yourusername/nodejs-sample-code.git
+cd nodejs-sample-code
 npm install
